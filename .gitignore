@@ -12,6 +12,8 @@
 
 .tmp/
 node_modules
+dev.js
+
 npm-debug.log
 .DS_Store
 *.env
